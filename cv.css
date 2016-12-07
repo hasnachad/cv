@@ -1,5 +1,7 @@
 html{
-	background-color: #FFCCFF;
+	margin: 0 auto;
+	padding: 0 auto;
+	background-color: ;
 	font-family: comic, sans-serif;
 }
 h1{
@@ -10,11 +12,20 @@ h1{
 }
 
 #contact{
-	
+	font-family: bold;
+	border-style: outset;
+	border-width: 8px;
+	border-color: #993366;
+	background-color: yellow;
 
 }
 #situation{
 	float: right;
+	font-family: bold;
+	font-size: 15px;
+	padding: 20px;
+	padding-top: 80px;
+	
 
 }
 #experience{
